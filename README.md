@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alessandro12312
 - 👀 I’m interested in cyebrsecurity and gamedeveloping 
-- 🌱 I’m currently learning computer engineering at Sapienza Università di Roma 
 
 <!---
 alessandro12312/alessandro12312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
