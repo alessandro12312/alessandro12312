@@ -2,12 +2,12 @@
 
 Mi chiamo **Alessandro Rico**, sono appassionato di sviluppo backend, architetture web e automazione. Studio Informatica presso **La Sapienza - Università di Roma** 🎓
 
-🎯 Attualmente sto imparando
+🎯 Attualmente sto imparando:
 
 🔄 API REST avanzate con Django REST Framework
 
 ☁️ Docker
 
-📫 Contatti
+📫 Contatti:
 
 📧 Email: alessandrorico99@gmail.com
