@@ -1,5 +1,13 @@
+👋 Ciao! Sono uno studente di Informatica alla Sapienza
 
-<!---
-alessandro12312/alessandro12312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mi chiamo **Alessandro Rico**, sono appassionato di sviluppo backend, architetture web e automazione. Studio Informatica presso **La Sapienza - Università di Roma** 🎓
+
+🎯 Attualmente sto imparando
+
+🔄 API REST avanzate con Django REST Framework
+
+☁️ Docker
+
+📫 Contatti
+
+📧 Email: alessandrorico99@gmail.com
