@@ -10,4 +10,3 @@ Mi chiamo **Alessandro Rico**, sono appassionato di sviluppo backend, architettu
 
 📫 Contatti:
 
-📧 Email: alessandrorico99@gmail.com
