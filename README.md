@@ -4,7 +4,7 @@ Mi chiamo **Alessandro Rico**, sono appassionato di sviluppo backend, architettu
 
 🎯 Attualmente sto imparando:
 
-🔄 API REST avanzate con Django REST Framework
+🔄 API REST con Django REST Framework
 
 ☁️ Docker
 
